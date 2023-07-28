@@ -4,4 +4,4 @@ LeetCode Problems' Solutions
 
 | #   | Title                                             | Solution                                                                              | Difficulty |
 | --- | ------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------- |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./algorithms/cpp/twoSum/twoSum.cpp), [Go](./algorithms/golang/twoSum/twoSum.go) | Easy       |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./algorithms/cpp/two_sum/two_sum.cpp), [Rust](./algorithms/rust/src/two_sums/mod.rs) | Easy       |
