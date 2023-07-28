@@ -1,1 +1,1 @@
-pub mod two_sums;
+pub mod two_sum;
